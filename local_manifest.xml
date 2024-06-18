@@ -2,12 +2,12 @@
 <manifest>
   <remote fetch="https://gitlab.com" name="gitlab" />
 
-  <project name="mvimal2607/android_device_realme_lunaa" path="device/realme/lunaa" revision="everest" />
-  <project name="mvimal2607/android_device_oneplus_sm8350-common" path="device/oneplus/sm8350-common" revision="everest" />
-  <project name="mvimal2607/android_kernel_oneplus_sm8350" path="kernel/oneplus/sm8350" revision="fourteen" />
-  <project name="mvimal2607/android_hardware_oplus" path="hardware/oplus" revision="everest" />
-  <project name="mvimal2607/proprietary_vendor_realme_lunaa" path="vendor/realme/lunaa" revision="new-1" remote="gitlab" />
-  <project name="mvimal2607/proprietary_vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350" revision="qpr2" remote="gitlab" />
-  <project name="mvimal2607/proprietary_vendor_oplus_camera" path="vendor/oplus/camera" revision="everest-op12" remote="gitlab" />
+  <project name="mvimal2607/android_device_realme_lunaa" path="device/realme/lunaa" revision="QPR3-14" />
+  <project name="mvimal2607/android_device_oneplus_sm8350-common" path="device/oneplus/sm8350-common" revision="QPR3-14" />
+  <project name="mvimal2607/android_kernel_oneplus_sm8350" path="kernel/oneplus/sm8350" revision="QPR3-14" />
+  <project name="mvimal2607/android_hardware_oplus" path="hardware/oplus" revision="QPR3-14" />
+  <project name="mvimal2607/proprietary_vendor_realme_lunaa" path="vendor/realme/lunaa" revision="QPR3-14" remote="gitlab" />
+  <project name="mvimal2607/proprietary_vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350" revision="QPR3-14" remote="gitlab" />
+  <project name="mvimal2607/proprietary_vendor_oplus_camera" path="vendor/oplus/camera" revision="QPR3-14" remote="gitlab" />
 
 </manifest>
