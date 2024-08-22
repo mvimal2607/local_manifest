@@ -3,10 +3,13 @@
   <remote fetch="https://gitlab.com" name="gtlab" />
 
   <project name="mvimal2607/android_device_realme_lunaa" path="device/realme/lunaa" revision="fourteen" remote="github" />
+  <project name="mvimal2607/android_device_realme_ice" path="device/realme/ice" revision="fourteen" remote="github" />
   <project name="mvimal2607/android_device_oneplus_sm8350-common" path="device/oneplus/sm8350-common" revision="fourteen" remote="github" />
   <project name="mvimal2607/android_kernel_oneplus_sm8350" path="kernel/oneplus/sm8350" revision="fourteen" remote="github" />
+  <project name="mvimal2607/android_kernel_oplus_RMX3461" path="kernel/oplus/RMX3461" remote="github" revision="fourreen" />
   <project name="mvimal2607/android_hardware_oplus" path="hardware/oplus" revision="fourteen" remote="github" />
   <project name="mvimal2607/proprietary_vendor_realme_lunaa" path="vendor/realme/lunaa" revision="fourteen" remote="gtlab" />
+  <project name="mvimal2607/proprietary_vendor_realme_ice" path="vendor/realme/ice" remote="github" revision="fourteen" />
   <project name="mvimal2607/proprietary_vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="fourteen" remote="github" />
   <project name="mvimal2607/proprietary_vendor_oplus_camera" path="vendor/oplus/camera" revision="everest" remote="gtlab" />
 
