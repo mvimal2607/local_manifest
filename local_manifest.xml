@@ -7,5 +7,6 @@
   <project name="mvimal2607/android_hardware_oplus" path="hardware/oplus" revision="fifteen" remote="github" />
   <project name="mvimal2607/proprietary_vendor_realme_lunaa" path="vendor/realme/lunaa" revision="fifteen" remote="github" />
   <project name="mvimal2607/proprietary_vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="fifteen" remote="github" />
+  <project name="mvimal2607/vendor_yaap_signing_keys" path="vendor/yaap/signing/keys" revision="master" remote="github" />
 
 </manifest>
