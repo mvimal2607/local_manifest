@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project name="mvimal2607/android_device_realme_lunaa" path="device/realme/lunaa" revision="fifteen" remote="github" />
-  <project name="mvimal2607/android_device_oneplus_sm8350-common" path="device/oneplus/sm8350-common" revision="fifteen" remote="github" />
-  <project name="mvimal2607/android_kernel_oneplus_sm8350" path="kernel/oneplus/sm8350" revision="fifteen" remote="github" />
-  <project name="mvimal2607/android_hardware_oplus" path="hardware/oplus" revision="fifteen" remote="github" />
-  <project name="mvimal2607/proprietary_vendor_realme_lunaa" path="vendor/realme/lunaa" revision="fifteen" remote="github" />
-  <project name="mvimal2607/proprietary_vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="fifteen" remote="github" />
+  <project name="mvimal2607/android_device_realme_lunaa" path="device/realme/lunaa" revision="sixteen" remote="github" />
+  <project name="mvimal2607/android_device_oneplus_sm8350-common" path="device/oneplus/sm8350-common" revision="sixteen" remote="github" />
+  <project name="mvimal2607/android_kernel_oneplus_sm8350" path="kernel/oneplus/sm8350" revision="sixteen" remote="github" />
+  <project name="mvimal2607/android_hardware_oplus" path="hardware/oplus" revision="sixteen" remote="github" />
+  <project name="mvimal2607/proprietary_vendor_realme_lunaa" path="vendor/realme/lunaa" revision="sixteen" remote="github" />
+  <project name="mvimal2607/proprietary_vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="sixteen" remote="github" />
   <project name="mvimal2607/vendor_yaap_signing_keys" path="vendor/yaap/signing/keys" revision="master" remote="github" />
 
 </manifest>
