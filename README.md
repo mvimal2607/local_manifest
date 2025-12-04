@@ -3,7 +3,7 @@
 ### Init YAAP Manifest
 
 ```
-repo init -u https://github.com/yaap/manifest.git -b sixteen --git-lfs
+repo init -u https://github.com/yaap/manifest.git -b sixteen --git-lfs --no-clone-bundle
 ```
 
 ### Clone Repository
