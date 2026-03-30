@@ -6,7 +6,7 @@
 repo init -u https://github.com/yaap/manifest.git -b sixteen --git-lfs --no-clone-bundle
 ```
 
-### Clone Repository
+### Clone Device Repositories 
 
 ```
 git clone https://github.com/mvimal2607/local_manifest.git .repo/local_manifests
